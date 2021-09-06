@@ -1,0 +1,10 @@
+C:\Users\Julio\Desktop\Semestres 3-2021\Aplicada 2\Tarea1\Lab. Tarea1\Registros de usuario\Registros de usuario\bin\Debug\Registros de usuario.exe.config
+C:\Users\Julio\Desktop\Semestres 3-2021\Aplicada 2\Tarea1\Lab. Tarea1\Registros de usuario\Registros de usuario\bin\Debug\Registros de usuario.exe
+C:\Users\Julio\Desktop\Semestres 3-2021\Aplicada 2\Tarea1\Lab. Tarea1\Registros de usuario\Registros de usuario\bin\Debug\Registros de usuario.pdb
+C:\Users\Julio\Desktop\Semestres 3-2021\Aplicada 2\Tarea1\Lab. Tarea1\Registros de usuario\Registros de usuario\obj\Debug\Registros de usuario.csproj.AssemblyReference.cache
+C:\Users\Julio\Desktop\Semestres 3-2021\Aplicada 2\Tarea1\Lab. Tarea1\Registros de usuario\Registros de usuario\obj\Debug\Registros_de_usuario.Form1.resources
+C:\Users\Julio\Desktop\Semestres 3-2021\Aplicada 2\Tarea1\Lab. Tarea1\Registros de usuario\Registros de usuario\obj\Debug\Registros_de_usuario.Properties.Resources.resources
+C:\Users\Julio\Desktop\Semestres 3-2021\Aplicada 2\Tarea1\Lab. Tarea1\Registros de usuario\Registros de usuario\obj\Debug\Registros de usuario.csproj.GenerateResource.cache
+C:\Users\Julio\Desktop\Semestres 3-2021\Aplicada 2\Tarea1\Lab. Tarea1\Registros de usuario\Registros de usuario\obj\Debug\Registros de usuario.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Desktop\Semestres 3-2021\Aplicada 2\Tarea1\Lab. Tarea1\Registros de usuario\Registros de usuario\obj\Debug\Registros de usuario.exe
+C:\Users\Julio\Desktop\Semestres 3-2021\Aplicada 2\Tarea1\Lab. Tarea1\Registros de usuario\Registros de usuario\obj\Debug\Registros de usuario.pdb
